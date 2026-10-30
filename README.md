@@ -1,2 +1,3 @@
 # ARGUS-FINANCIAL-INTELLIGENCE-SYSTEM---DEMO-MODE
 ARGUS is an offline-first financial intelligence demo built with Python, Streamlit, and SQLite. It simulates transaction monitoring, flags unusual activity, maps account transfers, explores fictional entity relationships, and creates investigation reports. All generated profiles and case records are fictional and for demonstration only.
+Those generate_data.py, generate_demo_transaction_context.py, generate_entity_data.py are the files that contain random names and transaction data to generate into a db, these are the demo data i used to simulate the transaction.
